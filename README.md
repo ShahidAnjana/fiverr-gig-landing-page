@@ -34,13 +34,6 @@ To create a gig image preview of the landing page:
 
 ---
 
-## 🔗 Live Preview (optional)
-
-If hosted on GitHub Pages:  
-`https://your-username.github.io/fiverr-landing-page/`
-
----
-
 ## 👤 Author
 
 **Muhammad Shahid**  
